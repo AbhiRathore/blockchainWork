@@ -20,5 +20,5 @@ AI/ML modules for predicting delays etc
 
 
 ```
-![alt text](https://github.com/AbhiRathore/blockchainWork/blob/e0bbc131492c68f3286b38a4712841c3d4181c3e/templates/Screenshot%20from%202025-03-18%2020-33-16.png)
+![alt text](https://github.com/AbhiRathore/blockchainWork/blob/main/templates/Screenshot%20from%202025-03-18%2020-33-16.png)
 ```
