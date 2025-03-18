@@ -19,6 +19,5 @@ Multiple personals
 AI/ML modules for predicting delays etc
 
 
-```
-![alt text](https://github.com/AbhiRathore/blockchainWork/blob/main/templates/Screenshot%20from%202025-03-18%2020-33-16.png)
-```
+[screenshot](https://github.com/AbhiRathore/blockchainWork/blob/main/templates/Screenshot%20from%202025-03-18%2020-33-16.png)
+
