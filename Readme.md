@@ -1,4 +1,4 @@
-## Supple Chain Block Chain app
+## Supply Chain Block Chain app
 
 This is a demo Block chain app on Supply chain
 
